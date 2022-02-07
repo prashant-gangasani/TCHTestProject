@@ -30,7 +30,7 @@ public class S3Util {
 	public AmazonS3 getS3Client(FileSearchConfig config) {
 		return AmazonS3ClientBuilder.standard().withCredentials(new AWSStaticCredentialsProvider(
 				new BasicAWSCredentials(config.getAwsConfig().getAccessId(), config.getAwsConfig().getSecretKey())))
-				.withRegion(Regions.EU_WEST_1).build();
+				.withRegion(Regions.US_EAST_1).build();
 	}
 
 	public void printData(FileSearchConfig config, String sql) {
