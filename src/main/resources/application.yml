@@ -1,4 +1,4 @@
-version: 1.0.1
+eversion: 1.0.1
 
 s3Config: 
  bucketName: tchbank
@@ -7,4 +7,4 @@ s3Config:
 
 awsConfig: 
  accessId: AKIAV4DACKSTLZLC7F5F
- secretKey: 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
+ secretKey: Removed for security reasons
