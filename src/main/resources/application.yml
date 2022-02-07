@@ -1,0 +1,10 @@
+version: 1.0.1
+
+s3Config: 
+ bucketName: mg-filesearch-test
+ filePath: bank/
+ fileName: Banks.csv
+
+awsConfig: 
+ accessId: AKIAVUSDQHCLYYN6RY5R
+ secretKey: ----------------
