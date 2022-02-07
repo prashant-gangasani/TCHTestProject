@@ -1,10 +1,10 @@
 version: 1.0.1
 
 s3Config: 
- bucketName: mg-filesearch-test
- filePath: bank/
+ bucketName: tchbank
+ filePath: /
  fileName: Banks.csv
 
 awsConfig: 
- accessId: AKIAVUSDQHCLYYN6RY5R
- secretKey: ----------------
+ accessId: AKIAV4DACKSTLZLC7F5F
+ secretKey: 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
