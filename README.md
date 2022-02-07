@@ -28,10 +28,11 @@ Overview on the project execution details
 		User input the column names as below
 			1,5
 			Enter Bank Name
-				SBI
+				Amazing Bank
 			Enter Zip Code
-				400102
+				10018
 		The following resulted row will be returned
-			SBI,Government,Mumbai,Maharashtra,400102
+		      5 Amazing Bank , New York, NY, 10018
+			
 				
 
